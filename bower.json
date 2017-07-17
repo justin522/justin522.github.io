@@ -1,0 +1,21 @@
+{
+  "name": "justin522.github.io",
+  "homepage": "https://github.com/justin522/justin522.github.io",
+  "authors": [
+    "Justin Tolman <justintolman@u.boisestate.edu>"
+  ],
+  "description": "The GitHub user page for justin522",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
